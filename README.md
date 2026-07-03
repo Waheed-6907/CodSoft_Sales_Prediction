@@ -188,6 +188,13 @@ This project is licensed under the **MIT License**.
 If you found this project helpful, please consider giving it a ⭐ on GitHub!
 
 ---
+---
+
+<div align="center">
+
+### 👨‍💻 Made with ❤️ by **Waheed Mujtaba**
+
+</div>
 
 <div align="center">
 
