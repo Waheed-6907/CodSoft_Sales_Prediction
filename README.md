@@ -136,7 +136,7 @@ Sales-Prediction-Using-Python/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Sales-Prediction-Using-Python.git
+git clone https://github.com/Waheed-6907/CodSoft_Sales_Prediction.git
 ```
 
 Move into the project directory:
