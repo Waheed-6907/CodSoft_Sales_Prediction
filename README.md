@@ -126,7 +126,6 @@ Sales-Prediction-Using-Python/
 ├── Sales_Prediction.ipynb
 ├── requirements.txt
 ├── README.md
-└── images/ (optional)
 ```
 
 ---
